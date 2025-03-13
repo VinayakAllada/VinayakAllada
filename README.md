@@ -5,18 +5,9 @@
 - 🌱 Currently learning Node.js for Web dev and Advanced Data Structures.
 - 📫 How to reach me: vinayakallada2006@gmail.com
 
-## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/vinayak-allada-29a068317/))
-- [Twitter]((https://x.com/vinay_allada))
-- [Email](mailto:vinayakallada2006@gmail.com)
-- [GitHub]((https://github.com/VinayakAllada ))
-
-- ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/vinayak-allada-29a068317//)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
-- [GitHub](https://github.com/your-username)
-
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-allada-29a068317/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayakAllada )
 
 
 ## 🛠️ Languages and Tools  
