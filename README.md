@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there! 👋 I'm Vinayak Allada😊
+### Welcome to my GitHub profile❤️!
+
+- 🔭 I’m currently working on a Web dev Project...
+- 🌱 I’m currently learning Node.js for Web dev and Advanced Data Structures
+- 💬 Ask me about [Topics of Interest]
+- 📫 How to reach me: vinayakallada2006@gmail.com
+
+
 
 <!--
 **VinayakAllada/VinayakAllada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
