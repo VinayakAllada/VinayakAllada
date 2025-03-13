@@ -1,5 +1,5 @@
 ![Animated Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+One+of+the+star+in+this+CODING+verse🤞!;I+love+coding!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=I+love+coding!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 # Hi🤗, I'm Vinayak Allada...
