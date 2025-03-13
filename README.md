@@ -11,6 +11,13 @@
 - [Email](mailto:vinayakallada2006@gmail.com)
 - [GitHub]((https://github.com/VinayakAllada ))
 
+- ## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/vinayak-allada-29a068317//)
+- [Twitter](https://twitter.com/your-profile)
+- [Email](mailto:your-email@example.com)
+- [GitHub](https://github.com/your-username)
+
+
 
 ## 🛠️ Languages and Tools  
 <p align="left">
