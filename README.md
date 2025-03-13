@@ -3,7 +3,9 @@
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 # Hi🤗, I'm Vinayak Allada...
-### Welcome to my GitHub profile❤️!
+### I'm a DSA enthusiast and a passionate Frontend Web Developer...
+### I enjoy solving complex problems, optimizing code, and building scalable web applications.
+### I'm Currently pursuing B.Tech in Computer Science and Engineering from Visvesvaraya National Institute of Technology.
 
 - 🔭 I’m currently working on a Web dev Project...
 - 🌱 Currently learning Node.js and Advanced Data Structures.
