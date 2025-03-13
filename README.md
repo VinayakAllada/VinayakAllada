@@ -2,7 +2,7 @@
 ### Welcome to my GitHub profile❤️!
 
 - 🔭 I’m currently working on a Web dev Project...
-- 🌱 Currently learning Node.js for Web dev and Advanced Data Structures.
+- 🌱 Currently learning Node.js and Advanced Data Structures.
 - 📫 How to reach me: vinayakallada2006@gmail.com
 
 ## Connect with Me  
