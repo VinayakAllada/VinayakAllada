@@ -10,9 +10,6 @@
 - 🌱 Currently learning Node.js and Advanced Data Structures.
 - 📫 How to reach me: vinayakallada2006@gmail.com
 
-- ![Profile views](https://komarev.com/ghpvc/?VinayakAllada&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinayak+Allada&theme=radical)
 
 
 - [![trophy](https://github-profile-trophy.vercel.app/?username=VinayakAllada&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
