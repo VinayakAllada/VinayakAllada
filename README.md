@@ -5,6 +5,12 @@
 - 🌱 Currently learning Node.js for Web dev and Advanced Data Structures.
 - 📫 How to reach me: vinayakallada2006@gmail.com
 
+- ## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-allada-29a068317/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://x.com/vinay_allada))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayakAllada )
+
+
 
 
 <!--
