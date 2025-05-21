@@ -13,7 +13,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VinayakAllada&theme=onedark&title=Commit,Stars,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VinayakAllada&theme=onedark&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
