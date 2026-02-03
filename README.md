@@ -1,52 +1,20 @@
-## 🗓️ Coding Timeline (Verified)
 
-### 🟢 2022 — Exploration
-- grocery-object-detection (ML / CV, YOLOv5)
+![Animated Divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=I+love+coding!;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
-### 🔵 2024 — Backend Foundations
-- node-express-course (Express basics)
+# Hi🤗, I'm Vinayak Allada...
+## A DSA enthusiast and passionate Full Stack Web Developer😎...
+#### Enjoy solving complex problems, optimizing code, and building scalable web applications ...
+#### I'm Currently pursuing B.Tech in Computer Science and Engineering from Visvesvaraya National Institute of Technology.
 
-### 🟣 Early 2025 — Core CS & DSA
-- BIG_INT
-- Heap-Management
-- Matrix-Multiplication
-- Medicine-Management-System
-- File-Compressor
+- 🔭 I’m currently working on a Web dev Project...
+- 🌱 Currently learning Node.js and Advanced Data Structures.
+- 📫 How to reach me: vinayakallada2006@gmail.com
 
-### 🔴 Mid 2025 — Frontend Growth
-- GuessNumber
-- sudoko_solver
-- CurrentTime-using-React
-- StopWatch
-- ProjectManagement-By-React
-- FrontendWeb-Projects
-- NOTEBOOK
-- Portifolio
 
-### 🟠 Late 2025 — Full Stack Systems
-- hostel-management
-- hostel-hub
-- hostel-mern
-- Hostel-Management-Using-MERN
-- hostel-management-MERN (private)
-- Quick-Live-Chat-Application
-- iwp-final-project
 
-### 🤝 College & Meta
-- college-connect
-- college_connect
-- VinayakAllada (profile repo)
-<!--
-**VinayakAllada/VinayakAllada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=VinayakAllada&theme=onedark&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
