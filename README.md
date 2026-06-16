@@ -11,8 +11,7 @@
 
 B.Tech CSE student at **VNIT Nagpur**, building things on the web and grinding DSA on the side.
 
-- 🔭 Currently building full-stack web projects with the MERN stack
-- 🌱 Learning **Node.js** and **Advanced Data Structures**
+- 🔭 Currently working & learning Agentic AI & GenAI.
 - ⚡ I like writing clean code, solving hard problems, and shipping things that actually work
 - 📫 Reach me at **vinayakallada2006@gmail.com**
 
