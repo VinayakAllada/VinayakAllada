@@ -55,13 +55,7 @@ Real-time chat app with WebSocket-based messaging. Minimal, fast, and built for 
 
 `Node.js` `Socket.io` `Express` `JavaScript`
 
----
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VinayakAllada&theme=onedark&title=Commit,Repositories,Stars&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ### 🔗 Connect
 
